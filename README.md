@@ -8,7 +8,7 @@ https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis
 
 <h2>Features</h2>
 
-- **FlickrController displays a home page with a simple form. The form is a single text field which takes the ID for a Flickr user. Once the form is submitted, the page refreshs and displays the photos from that user.**
+- FlickrController displays a home page with a simple form. The form is a single text field which takes the ID for a Flickr user. Once the form is submitted, the page refreshs and displays the photos from that user.
 
 
 
