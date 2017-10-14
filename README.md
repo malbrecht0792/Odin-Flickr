@@ -2,7 +2,7 @@
 
 This project features an app the queries Flickr using the Flickraw API to return a user's photos by passing in their user id.
 
-- The full project details can be found here:
+- The full project details can be found here (Project 2):
 
 https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis
 
